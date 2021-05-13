@@ -10,7 +10,6 @@ Hope you enjoy using this!
 var ytbSettings = {
     "channelLogoWidth": "125",
     "useRGBAgradient": true,
-    "alerts": true,
     "rgbaGradient1": {
         "color": "0, 0, 0", // rgb color
         "opacity": "0.2" // from 0 to 1
